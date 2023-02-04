@@ -1,0 +1,16 @@
+Problem Statement :
+
+The aim of the project is to build a predictive model 
+that can  predict the sales of each product at a given outlet. 
+The model should take into account various factors such as :
+item visibility, item prices, location of the outlet, and size of the store. 
+The model will help the company to optimize their sales and make informed business decisions.
+
+
+Hypothesis Generation :
+
+* Item visibility has a significant impact on sales.
+* Item prices  play a crucial role in sales.
+* location of the outlet have a direct impact on sales.
+* Sales are positively correlated with the size of the store.
+* Outlets located in urban areas have higher sales compared to those located in rural areas.
